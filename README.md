@@ -11,7 +11,7 @@
 
  * [RebornBuddy][5] with active license (paid)
  * [Lisbeth][6] with active license (paid)
- * [LlamaLibrary[7] (free)
+ * [LlamaLibrary][7] (free)
 
 ### Setup
 
@@ -44,4 +44,4 @@ To level retainers quickly, set Quick Exploration and leave it until max level. 
 [4]: https://discord.gg/bmgCq39 "Discord"
 [5]: https://www.rebornbuddy.com/ "RebornBuddy"
 [6]: https://www.siune.io/ "Lisbeth"
-[7]: https://github.com/nt153133/LlamaLibrary
+[7]: https://github.com/nt153133/LlamaLibrary "LlamaLibrary"
